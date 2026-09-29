@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-active-dialogue-dependency-evaluator
-description: "Evaluate third-party dependencies through rigorous cost-versus-benefit dialogic audits." Use this when working on fitzpatrick active dialogue dependency evaluator.
+description: "Evaluate third-party dependencies through rigorous cost-versus-benefit dialogic audits. Use this when working on fitzpatrick active dialogue dependency evaluator."
 category: "Writing & Communication"
 triggers:
   - "dependency evaluator"
