@@ -9,7 +9,7 @@ triggers:
   - "prevent npm bloat"
   - "dependency trade-off"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
